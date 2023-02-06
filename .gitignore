@@ -1,0 +1,16 @@
+.idea/
+log/
+code/
+/helper/amt_api/access_key.csv
+/helper/amt_api/qualified_workers/
+/helper/amt_api/logs/
+/helper/amt_api/msg/
+*/__pycache__/*
+/data/test/~$*
+/data/conceptnet_en_one_concept.csv
+
+# Temp scripts
+tmp*.sh
+tmp*.py
+exp*.sh
+exp*.py
