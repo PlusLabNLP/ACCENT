@@ -25,11 +25,11 @@ event-relation tuples as the symbolic intermediate representation and consists o
 
 ## Requirements
 
-To use ACCENT, the required packages are
+You can install the required packages through
 
-- python 3.8
-- pytorch 1.11.0
-- transformers 4.17.0
+```shell
+pip install -r requirements.txt
+```
 
 ## Datasets
 
