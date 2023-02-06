@@ -44,8 +44,6 @@ def main(args):
         if 'event_cs' in sample:
             gt_scores.append(sample['event_cs'])
         if verbose_mode:
-            import pdb
-            pdb.set_trace()
             score, tuples, cs_doc, tuple_scores = cs_scorer.score(
                 context=sample['history'],
                 utterance=sample['response'],
