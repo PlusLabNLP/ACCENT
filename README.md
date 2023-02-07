@@ -218,5 +218,3 @@ them.
 If you have any questions related to the code, the data, or the paper, feel free to email [Sarik](mailto:sarik@isi.edu)
 or [Yijia](mailto:shaoyj@pku.edu.cn). If you encounter any problem when using the code, you can also open an issue to
 describe your problem.
-
-<iframe src="https://onedrive.live.com/download?cid=FD8964DACD103482&resid=FD8964DACD103482%211271&authkey=AFhuX5ySFDzplCM" width="98" height="120" frameborder="0" scrolling="no"></iframe>
