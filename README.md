@@ -123,7 +123,7 @@ We provide the following two ways to use ACCENT on your own dialogues:
     history = "{utt1}</UTT>{utt2}</UTT>{utt3}</UTT>{utt4}</UTT>"  # Dialogue history with 4 previous utterances.
     target = "target response to evaluate"
     
-    score, tuples, cs_tails, tuple_scores = metric.score(history, target, debug_mode=True)
+    score, tuples, cs_tails, tuple_scores = metric.score(history, target, verbose_mode=True)
     
     print(f'Score: {score}')
     
